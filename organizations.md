@@ -38,4 +38,4 @@ Key areas:
 
 ---
 
-Both organizations are open by default. If you are working on decentralized AI, protocol security or applied ML infrastructure, reach out.
+Both organizations are open by default. If you are working on decentralized AI, protocol security or applied ML infrastructure, reach out via [Telegram](https://t.me/fullom3m3).
