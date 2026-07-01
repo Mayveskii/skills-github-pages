@@ -13,6 +13,7 @@ title: Home
     <div class="hero-links">
       <a href="{{ site.baseurl }}/about/">About me</a>
       <a href="{{ site.baseurl }}/organizations/">Organizations</a>
+      <a href="{{ site.baseurl }}/contributions/">Contributions</a>
       <a href="https://github.com/Mayveskii">GitHub</a>
       <a href="https://t.me/fullom3m3">Telegram</a>
     </div>
@@ -52,10 +53,12 @@ Both are open by default. The goal is to make AI infrastructure more reliable, d
 ## Open-source highlights
 
 - **ethereum/go-ethereum** — merged fix for `txLookupLock` mutex leak in reorg error paths; additional PRs for blobpool data loss, filtermaps and state snapshot error handling.
-- **gonka-ai/gonka** — BLS/DKG consensus fixes, semantic cache pipeline, inference validation hardening, error propagation across keeper and subnet modules.
+- **gonka-ai/gonka** — BLS/DKG consensus fixes, semantic cache pipeline, inference validation hardening, error propagation across keeper and subnet modules. Active open work on overflow guards, escrow fund loss prevention and graceful shutdown.
 - **gonkalabs/opengnk** — L1 semantic cache handler and inference quality metrics middleware.
 - **Mayveskii/Mimic** — MCP server with C-core execution engine, 48+ tools, orchestrator and mesh knowledge.
 - **Mayveskii/docpool** — RAG document workflow with PostgreSQL/pgvector and GonkaGate API.
+
+[Full contribution list →]({{ site.baseurl }}/contributions/)
 
 ---
 
