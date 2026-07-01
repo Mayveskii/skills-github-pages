@@ -4,8 +4,6 @@ title: Artemii Maevskii
 permalink: /about/
 ---
 
-# Artemii Maevskii
-
 I am an infrastructure engineer with **6.5+ years of production experience** across Russia, Southeast Asia and remote teams worldwide.
 
 ## Career path
