@@ -4,8 +4,6 @@ title: Organizations
 permalink: /organizations/
 ---
 
-# Organizations
-
 I am building two focused spaces for the work I care about.
 
 ## mv-core
